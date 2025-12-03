@@ -8,6 +8,20 @@
     "record": {
         "A": [
             "1.1.1.1"
+        ],
+        "CNAME": [
+            "b1.zohomail-com.dkim.brevo.com",
+            "b2.zohomail-com.dkim.brevo.com"
+        ],
+        "MX": [
+            "mx.zoho.com",
+            "mx2.zoho.com",
+            "mx3.zoho.com"
+        ],
+        "TXT": [
+            "brevo-code:c43cfd665577db1c27304a59201f6453",
+            "v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com",
+            "brevo-code:c43cfd665577db1c27304a59201f6453"
         ]
     },
     "proxied": false
