@@ -1,7 +1,8 @@
 {
 "domain": "is-cool.dev",
     "subdomain": "officepool",
-    "owner": {
+    "owner": {   
+        "repo": "https://github.com/worklotus/register",
         "email": "fuzzypalm@gmail.com"
     },
     "record": {
