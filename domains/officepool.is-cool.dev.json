@@ -1,1 +1,12 @@
-
+ "domain": "is-cool.dev",
+    "subdomain": "officepool",
+    "owner": {
+        "email": "fuzzypalm@gmail.com"
+    },
+    "record": {
+        "A": [
+            "1.1.1.1"
+        ]
+    },
+    "proxied": false
+}
